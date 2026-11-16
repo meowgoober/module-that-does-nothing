@@ -6,20 +6,20 @@
 
 ---
 
-## 🚀 What is it?
+## What is it?
 
-It does **nothing**. And it does it better than anything else ever created. Engineers wept. Scientists stood up and left the room. Nobody has ever done nothing this well.
+It does **nothing**. And it does it better than anything else ever created. Nobody has ever done nothing this well.
 
-## 📦 Installation
+## Installation
 
 1. Open Magisk or KernelSU.
 2. Modules → Install from storage.
 3. Select `module_that_does_nothing.zip`.
 4. Experience nothing. Immediately.
 
-## 📜 Why you need it: the 600+ reasons
+## Why choose module-that-does-nothing
 
-### ⚡ Performance (Unmatched)
+### Performance
 
 1. Uses exactly 0% CPU while idle.
 2. Uses exactly 0% CPU during gaming.
@@ -282,7 +282,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 259. Uses exactly 0% boot time on public Wi-Fi.
 260. Uses exactly 0% boot time at 100% brightness.
 
-### 📱 Compatibility (Universal)
+### Compatibility
 
 261. Works flawlessly on Pixel 1, doing nothing perfectly.
 262. Works flawlessly on Pixel 4a, doing nothing perfectly.
@@ -356,7 +356,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 330. Compatible with your keyboard (they will never notice it's there).
 331. Compatible with your ringtone (they will never notice it's there).
 
-### 🛡️ Safety (Bulletproof)
+### Safety
 
 332. Has never once caused a bootloop. Statistically unbeatable.
 333. Has never once caused a soft brick. Statistically unbeatable.
@@ -439,7 +439,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 410. Cannot be blamed for a failed OTA, because it does nothing.
 411. Cannot be blamed for a Discord outage, because it does nothing.
 
-### 🏆 Comparisons (Humiliating For Others)
+### Comparisons
 
 412. Does nothing better than Netflix.
 413. Does nothing better than a Swiss watch.
@@ -522,7 +522,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 490. Has a smaller footprint than a bank holiday.
 491. Has a smaller footprint than dial-up internet.
 
-### 🧘 Lifestyle & Wellness
+### Lifestyle & Wellness
 
 492. Promotes inner peace.
 493. Promotes mindfulness.
@@ -545,7 +545,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 510. Promotes smooth sailing.
 511. Promotes quiet confidence.
 
-### 🌋 Durability
+### Durability
 
 512. Would survive a flood without a scratch (it does nothing, so nothing to break).
 513. Would survive an earthquake without a scratch (it does nothing, so nothing to break).
@@ -572,7 +572,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 534. Would survive your landlord without a scratch (it does nothing, so nothing to break).
 535. Would survive a full wipe without a scratch (it does nothing, so nothing to break).
 
-### ❤️ Beloved By
+### Beloved By
 
 536. Beloved by monks.
 537. Beloved by minimalists.
@@ -605,7 +605,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 564. Beloved by dolphins.
 565. Beloved by sleepy toddlers.
 
-### 🧠 Intellectual
+### Intellectual
 
 566. Passes the Turing test with flying colors.
 567. Passes the smoke test with flying colors.
@@ -623,7 +623,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 579. Passes the airport test with flying colors.
 580. Passes the IKEA test with flying colors.
 
-### 🎖️ Awards (Self-Awarded)
+### Awards (Self-Awarded)
 
 581. Winner of the 2010 Golden Nothing Award.
 582. Winner of the 2011 Golden Nothing Award.
@@ -643,7 +643,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 596. Winner of the 2025 Golden Nothing Award.
 597. Winner of the 2026 Golden Nothing Award.
 
-### 🧾 Specs
+### Specs
 
 598. Only 133 bytes of pure, uncompromised nothing.
 599. Zero lines of code. Zero bugs. Zero regrets.
@@ -667,7 +667,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 617. Zero lines of code. Zero bugs. Zero hidden menus.
 618. Zero lines of code. Zero bugs. Zero lawsuits.
 
-### 📣 Testimonials
+### Testimonials
 
 619. "I installed it and nothing changed. Life-changing." — A satisfied user
 620. "Best module I've never noticed." — Anonymous
@@ -685,7 +685,7 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 632. "Fifty stars out of five." — The module itself
 633. "The nothing I didn't know I needed." — A philosopher
 
-### 🌟 Miscellaneous Greatness
+### Miscellaneous Greatness
 
 634. Does not require a reboot to do nothing (but will not object if you reboot).
 635. Does not require an internet connection.
@@ -708,11 +708,4 @@ It does **nothing**. And it does it better than anything else ever created. Engi
 652. Developed by xdijd, a person of impeccable taste.
 653. Available at xdijd.fyi for all your nothing needs.
 
-## 🎤 Final Verdict
-
-After careful consideration of all **653** reasons, the conclusion is clear: you cannot afford to *not* install this module. Do it now. Or don't. It literally doesn't matter, which is the whole point.
-
----
-
-*Side effects include: nothing.*  
-*Results guaranteed or your nothing back.*
+*Results guaranteed to do nothing.*
